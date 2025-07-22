@@ -9,6 +9,12 @@ https://github.com/user-attachments/assets/9eccd5e2-e92d-486c-81fd-4e1622f6e0cd
 
 ---
 
+## Usage
+
+After installing NumPy, run the main script from the Maya Script Editor.
+
+---
+
 ## Requirements
 
 The script requires the **NumPy** library.
@@ -26,8 +32,6 @@ Use the `check_and_install_numpy.py` script to automatically install NumPy from 
 
 https://github.com/user-attachments/assets/359df3eb-54d6-4e08-b37c-63f29d075fbb
 
-
-
 This is the easiest and most portable method.
 
 ---
@@ -43,7 +47,3 @@ This is the easiest and most portable method.
 https://github.com/user-attachments/assets/172ef66c-ab6e-47de-8778-17919d2046e4
 
 ---
-
-## Usage
-
-After installing NumPy, run the main script from the Maya Script Editor.
