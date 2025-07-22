@@ -24,6 +24,10 @@ Use the `check_and_install_numpy.py` script to automatically install NumPy from 
 3. Copy and run the contents of [`check_and_install_numpy.py`](check_and_install_numpy.py).
 4. The script will check if NumPy is installed, and install it automatically using `mayapy.exe` if needed.
 
+https://github.com/user-attachments/assets/359df3eb-54d6-4e08-b37c-63f29d075fbb
+
+
+
 This is the easiest and most portable method.
 
 ---
