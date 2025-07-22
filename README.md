@@ -5,6 +5,7 @@ Planar Components script for Autodesk Maya
 Original script from this video:  
 https://www.youtube.com/watch?v=ieN5SyGJwIw&t=26s
 
+https://github.com/user-attachments/assets/9eccd5e2-e92d-486c-81fd-4e1622f6e0cd
 ---
 
 ## Requirements
@@ -34,15 +35,9 @@ This is the easiest and most portable method.
 
 2. Run `maya_install_numpy.cmd`.
 
+https://github.com/user-attachments/assets/172ef66c-ab6e-47de-8778-17919d2046e4
 ---
 
 ## Usage
 
 After installing NumPy, run the main script from the Maya Script Editor.
-
----
-
-## Assets
-
-- [Installation CMD screenshot](https://github.com/user-attachments/assets/172ef66c-ab6e-47de-8778-17919d2046e4)
-- [Script usage screenshot](https://github.com/user-attachments/assets/9eccd5e2-e92d-486c-81fd-4e1622f6e0cd)
