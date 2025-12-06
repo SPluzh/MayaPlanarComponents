@@ -16,7 +16,6 @@ https://github.com/user-attachments/assets/9eccd5e2-e92d-486c-81fd-4e1622f6e0cd
   - Auto-snaps plane normal to world axes (X/Y/Z) when within 0.1° threshold
   - Only moves vertices that are OFF the plane (selective displacement)
   - Detects existing coplanar vertices and preserves them
-  - Works with vertices, edges, faces, and object selection modes
   - Shows in-viewport notification at top with moved vertex count and plane orientation
   - Preserves original selection mode after operation
 
