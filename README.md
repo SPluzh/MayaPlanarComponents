@@ -18,7 +18,9 @@ https://github.com/user-attachments/assets/9eccd5e2-e92d-486c-81fd-4e1622f6e0cd
   - Detects existing coplanar vertices and preserves them
   - Works with vertices, edges, faces, and object selection modes
   - Shows in-viewport notification at top with moved vertex count and plane orientation
-  - Preserves original selection mode after operation---
+  - Preserves original selection mode after operation
+
+  ---
 
 ## Usage
 
